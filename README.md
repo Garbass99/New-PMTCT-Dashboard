@@ -8,7 +8,7 @@ A comprehensive dashboard for monitoring and evaluating Prevention of Mother-to-
 The National PMTCT Dashboard provides healthcare administrators, program managers, and stakeholders with real-time insights into PMTCT program performance across the country. This interactive tool enables data-driven decision making to improve maternal and child health outcomes in HIV prevention.
 
 # Features
-Real-time Monitoring: Track PMTCT indicators and KPIs across health facilities
+Real-time Monitoring: Track PMTCT indicators and KPIs across health facilities data dawnloaded from NDARS
 
 Geospatial Visualization: Map view of program coverage and performance by region
 
